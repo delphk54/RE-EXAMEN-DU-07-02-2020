@@ -1,4 +1,11 @@
-
+header{
+    background-image: url(./fond\ header.jpg);
+}
+.jumbotron1{
+    background-image: url(./fond\ header.jpg);
+    background: cover;
+    height: 650px;
+}
 .trait{
     border: solid 1px blue;
 }
